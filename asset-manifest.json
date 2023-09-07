@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gogonzogo.github.io/Final-Team-Project/static/css/main.7acaea2f.css",
+    "main.js": "/gogonzogo.github.io/Final-Team-Project/static/js/main.07d3183d.js",
+    "index.html": "/gogonzogo.github.io/Final-Team-Project/index.html",
+    "main.7acaea2f.css.map": "/gogonzogo.github.io/Final-Team-Project/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/gogonzogo.github.io/Final-Team-Project/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
