@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Final-Team-Project/static/css/main.d5cf19a0.css",
-    "main.js": "/Final-Team-Project/static/js/main.2a23bac8.js",
-    "static/js/544.15124f91.chunk.js": "/Final-Team-Project/static/js/544.15124f91.chunk.js",
-    "static/js/643.65960e98.chunk.js": "/Final-Team-Project/static/js/643.65960e98.chunk.js",
-    "static/js/427.d1519990.chunk.js": "/Final-Team-Project/static/js/427.d1519990.chunk.js",
+    "main.js": "/Final-Team-Project/static/js/main.0b85e1b2.js",
+    "static/js/544.bf174577.chunk.js": "/Final-Team-Project/static/js/544.bf174577.chunk.js",
     "static/js/757.9ca8bc6d.chunk.js": "/Final-Team-Project/static/js/757.9ca8bc6d.chunk.js",
     "static/js/390.cf59d23b.chunk.js": "/Final-Team-Project/static/js/390.cf59d23b.chunk.js",
+    "static/js/643.65960e98.chunk.js": "/Final-Team-Project/static/js/643.65960e98.chunk.js",
+    "static/js/427.d1519990.chunk.js": "/Final-Team-Project/static/js/427.d1519990.chunk.js",
     "index.html": "/Final-Team-Project/index.html",
     "main.d5cf19a0.css.map": "/Final-Team-Project/static/css/main.d5cf19a0.css.map",
-    "main.2a23bac8.js.map": "/Final-Team-Project/static/js/main.2a23bac8.js.map",
-    "544.15124f91.chunk.js.map": "/Final-Team-Project/static/js/544.15124f91.chunk.js.map",
-    "643.65960e98.chunk.js.map": "/Final-Team-Project/static/js/643.65960e98.chunk.js.map",
-    "427.d1519990.chunk.js.map": "/Final-Team-Project/static/js/427.d1519990.chunk.js.map",
+    "main.0b85e1b2.js.map": "/Final-Team-Project/static/js/main.0b85e1b2.js.map",
+    "544.bf174577.chunk.js.map": "/Final-Team-Project/static/js/544.bf174577.chunk.js.map",
     "757.9ca8bc6d.chunk.js.map": "/Final-Team-Project/static/js/757.9ca8bc6d.chunk.js.map",
-    "390.cf59d23b.chunk.js.map": "/Final-Team-Project/static/js/390.cf59d23b.chunk.js.map"
+    "390.cf59d23b.chunk.js.map": "/Final-Team-Project/static/js/390.cf59d23b.chunk.js.map",
+    "643.65960e98.chunk.js.map": "/Final-Team-Project/static/js/643.65960e98.chunk.js.map",
+    "427.d1519990.chunk.js.map": "/Final-Team-Project/static/js/427.d1519990.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5cf19a0.css",
-    "static/js/main.2a23bac8.js"
+    "static/js/main.0b85e1b2.js"
   ]
 }
