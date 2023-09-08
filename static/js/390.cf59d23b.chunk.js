@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkfinal_team_project=self.webpackChunkfinal_team_project||[]).push([[390],{5390:function(e,t,a){a.r(t);a(2791);var n=a(184);t.default=function(){return(0,n.jsx)("div",{children:"Calculator"})}}}]);
-//# sourceMappingURL=390.cf59d23b.chunk.js.map

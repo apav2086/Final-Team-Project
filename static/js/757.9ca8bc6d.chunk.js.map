@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/757.9ca8bc6d.chunk.js","mappings":"yJAQA,UANA,WACE,OACE,yBAAK,SAER,C","sources":["pages/Diary/Diary.jsx"],"sourcesContent":["import React from 'react'\n\nfunction Diary() {\n  return (\n    <div>Diary</div>\n  )\n}\n\nexport default Diary"],"names":[],"sourceRoot":""}
